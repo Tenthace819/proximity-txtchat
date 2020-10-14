@@ -25,8 +25,3 @@
 
  Enjoy! :)
 
- 
-
- -- Discord --
- 
- discord.gg/UM8BUyy
