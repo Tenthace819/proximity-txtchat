@@ -1,0 +1,15 @@
+--Trevor M. Scripts--
+
+---- Version - 1.0.0 ----
+
+ ## INFORMATION ##
+
+ - Creation of All Files
+
+ ## SIDE NOTES ##
+
+ - Works Properly
+
+ - No Known Bugs
+
+--------------------------
